@@ -1,0 +1,28 @@
+.chat-place{
+	display: block;
+	width: 700px;
+	height: 1000px;
+	overflow: scroll;
+	background: #ccc;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.chat-place .info{
+	margin: 0 auto;
+	width: 250px;
+	text-align: center;
+}
+
+.info input{
+	padding: 10px;
+}
+
+.row label {
+	display: block;
+}
+
+.info input[type="submit"]{
+	margin-top: 10px;
+}
+
